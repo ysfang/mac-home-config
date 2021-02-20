@@ -1,0 +1,11 @@
+[user]
+	name = ysfang
+	email = ysfang82@gmail.com
+[alias]
+  st = status
+  br = branch
+  co = checkout
+  cm = commit
+  sh = stash
+[core]
+	excludesfile = /Users/fangyushan/.gitignore_global

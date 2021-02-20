@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# vi
+*~
+
+# Java
+.idea/
+.gradle/
+
+# General
+build/
+target/
+log/
+*.log
+
+
